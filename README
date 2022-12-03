@@ -8,7 +8,7 @@ Patches
 - alpha
 - dynamic cursor color
 - bold is not bright
-
+- blinking-cursor
 
 Requirements
 ------------
