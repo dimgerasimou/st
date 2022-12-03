@@ -11,6 +11,8 @@ Patches
 - blinking-cursor
 - xresources
 - anysize
+- alpha
+- alpha focus patch
 
 Requirements
 ------------
