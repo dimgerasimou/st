@@ -9,6 +9,7 @@ Patches
 - dynamic cursor color
 - bold is not bright
 - blinking-cursor
+- xresources
 
 Requirements
 ------------
