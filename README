@@ -14,7 +14,7 @@ Patches
 - alpha focus patch
 - fixdel
 - scrollback-mouse-altscreen-increment
-
+- fix for horizontal text resizing
 Requirements
 ------------
 In order to build st you need the Xlib header files.
