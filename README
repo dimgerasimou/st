@@ -12,6 +12,8 @@ Patches
 - anysize
 - alpha
 - alpha focus patch
+- fixdel
+- scrollback-mouse-altscreen-increment
 
 Requirements
 ------------
