@@ -16,6 +16,8 @@ Patches
 - fixdel
 - scrollback-mouse-altscreen-increment
 - fix for horizontal text resizing
+- font2
+- wide-glyphs-fix
 
 Requirements
 ------------
