@@ -18,6 +18,7 @@ Patches
 - fix for horizontal text resizing
 - font2
 - wide-glyphs-fix
+- newterm
 
 Requirements
 ------------
