@@ -14,7 +14,7 @@ Patches
 - alpha
 - alpha focus patch
 - fixdel
-- scrollback-mouse-altscreen-increment
+- scrollback-mouse-altscreen-increment-reflow
 - fix for horizontal text resizing
 - font2
 - wide-glyphs-fix
