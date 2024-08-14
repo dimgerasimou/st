@@ -5,10 +5,11 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "Liberation Mono:pixelsize=12:antialias=true:autohint=true";
+static char *font = "Liberation Mono:size=13:antialias=true:autohint=true";
 static char *sparefonts[] = {
-	"FiraCode Nerd Font:pixelsize=12:antialias=true:autohint=true",
-	"JoyPixels:pixelsize=12:antialias=true:autohint=true",
+	"FiraCode Nerd Font:size=13:antialias=true:autohint=true",
+	"Font Awesome 6 Free:style=Regular:size=13",
+	"JoyPixels:size=13:antialias=true:autohint=true",
 };
 static int borderpx = 2;
 
