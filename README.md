@@ -19,6 +19,7 @@ Patches
 - font2
 - wide-glyphs-fix
 - newterm
+- vertcenter
 
 Requirements
 ------------
